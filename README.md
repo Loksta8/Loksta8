@@ -1,7 +1,7 @@
 ## Hi there 👋 and welcome to my profile!
 
-- I'm Logan, a software developer and a gamer.
-- I enjoy writing programs for fun and learning as much as I can in the world of Software! I just started an open-source ant simulation project. If you haven't tried it out yet, go check it out!
+- I'm Logan, a software developer and a gamer. :video_game:  :desktop_computer:
+- I enjoy writing :writing_hand: programs for fun and learning as much as I can in the world of Software! I just started an open-source ant simulation project. If you haven't tried it out yet, go check it out!
 
 **OS:**
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
