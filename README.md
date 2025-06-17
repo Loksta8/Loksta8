@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 and welcome to my profile!
+
+- I'm Logan, a ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) software developer and a gamer.
+- I enjoy writing programs for fun and learning as much as I can in the world of Software! I just started an open-source ant simulation project. If you haven't tried it out yet, go check it out!
 
 <!--
 **Loksta8/Loksta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
