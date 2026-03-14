@@ -16,6 +16,7 @@
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+[![Loksta8's GitHub stats](https://github-readme-stats.vercel.app/api?username=loksta8)](https://github.com/loksta8/github-readme-stats)
 
 <!--
 **Loksta8/Loksta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
